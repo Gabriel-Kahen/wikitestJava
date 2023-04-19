@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp spec="1.0+" codebase="http://example.com/wikiRace" href="wikiRace.jnlp">
+<jnlp spec="1.0+" codebase="http://Gabriel-Kahen.github.io/Gabriel-Kahen.github.io" href="wikiRace.jnlp">
   <information>
     <title>Wiki Race</title>
   </information>
