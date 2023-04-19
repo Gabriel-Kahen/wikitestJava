@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://example.com/wikiRace" href="wikiRace.jnlp">
+  <information>
+    <title>Wiki Race</title>
+  </information>
+  <security>
+    <all-permissions/>
+  </security>
+  <resources>
+    <j2se version="1.8+"/>
+    <jar href="wikiRace.jar"/>
+  </resources>
+  <application-desc main-class="com.example.wikiRace"/>
+</jnlp>
