@@ -7,7 +7,7 @@
    </information>
    <resources>
       <j2se version="1.8+"/>
-      <jar href="WikiRace.jar"/>
+      <jar href="wikiRace.jar"/>
    </resources>
    <application-desc main-class="wikiRace"/>
 </jnlp>
